@@ -1,4 +1,11 @@
+
+]
 Cold and dry, but everything is my favorite color.
 The two moon 
 anything
+<<<<<<< HEAD
 okay
+=======
+hellp sophie how are you
+
+>>>>>>> 10fa2e5eed511aea1f32c85391120963712afb4f
